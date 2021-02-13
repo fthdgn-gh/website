@@ -21,8 +21,8 @@ jobs:
       with:
         hugo-version: latest
 
-    - name: Build local ./exampleSite
-      run: hugo --minify --gc --destination ../public --source ./exampleSite --themesDir ../.. --baseURL https://janraasch.github.io/hugo-bearblog/
+    - name: Build site
+      run: hugo --minify --gc --destination ../public
 
     - name: Deploy to GitHub Pages
       if: github.event_name == 'push'
