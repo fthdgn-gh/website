@@ -22,7 +22,7 @@ jobs:
         hugo-version: latest
 
     - name: Build site
-      run: hugo --minify --gc
+      run: hugo --minify --gc --destination ./public
 
     - name: Deploy to GitHub Pages
       if: github.event_name == 'push'
