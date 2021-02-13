@@ -1,3 +1,3 @@
 # Websitem
 
-Kişisel websitemin kaynak kodu. Web siteye buradan ulaşabilirsin: [fatihdgn.com](https://fatihdgn.com)
+Kişisel websitemin kaynak kodu. Siteye buradan ulaşabilirsin: [fatihdgn.com](https://fatihdgn.com)
