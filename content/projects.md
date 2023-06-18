@@ -4,7 +4,7 @@ title = "Projeler"
 
 # Projeler
 
-Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan bir kaçı ise ters kronolojik sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Gelecekte oluşabilecek projeleri zaman buldukça buraya yazacağım.
+Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan aklıma gelenleri ise ters kronolojik sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Gelecekte oluşabilecek projeleri zaman buldukça buraya yazacağım.
 
 ---
 ### [VavaCars](https://vava.cars/)
