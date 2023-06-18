@@ -4,7 +4,7 @@ title = "Projeler"
 
 # Projeler
 
-Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan bir kaçı ise kronolojik sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Zaman buldukça buraya yazacağım.
+Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan bir kaçı ise kronolojik sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Gelecekte oluşabilecek projeleri zaman buldukça buraya yazacağım.
 
 ---
 ### İsimsiz (ASLI BÖREK)
