@@ -4,16 +4,89 @@ title = "Projeler"
 
 # Projeler
 
-Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan bir kaçı ise kendimce sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Zaman buldukça buraya yazacağım.
+Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan bir kaçı ise kronolojik sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Zaman buldukça buraya yazacağım.
 
-### [PEAKUP Authenticator](https://auth.peakup.org)
+---
+### İsimsiz (ASLI BÖREK)
+
+Müşterilerin oturdukları masada kullanabilmeleri için, tabletlerde çalışabilecek bir sipariş sistemi.
+
+---
+### İsimsiz (ASLI BÖREK)
+
+İçeride kullanılan CRM sisteminin kullanımını kolaylaştırmak için bir yardımcı uygulama.
+
+---
+### PeakDrive (PEAKUP)
+
+Araçlar için, takip ve akıllı deneyim sistemi.
+
+---
+### [Sign & Go](https://signandgo.peakup.org) (PEKAUP)
+
+Mail imza yönetim sistemi.
+
+---
+### ContactSync (PEAKUP)
+
+Outlook for Windows için kişi listesi yönetim sistemi.
+
+---
+### Back & Drop (PEAKUP)
+
+Windows tabanlı sistemler için yedekleme çözümü.
+
+---
+### [Authenticator](https://auth.peakup.org) (PEAKUP)
 
 Authenticator, [PEAKUP](https://peakup.org/)'daki bütün [SaaS](https://tr.wikipedia.org/wiki/Hizmet_olarak_yaz%C4%B1l%C4%B1m) yazılımların merkezinde bulunan bir giriş sistemi. Doğası bakımından altyapısı ve [multitenancy](https://en.wikipedia.org/wiki/Multitenancy) gibi yaklaşımları ile birlikte bana çok şey katan bir proje.
 
 ---
+### ExchangeRates (PEAKUP)
 
-### [PEAKUP Sign & Go](https://peakup.org/global/signgo/) | 2013 - 2022
+TCMB'den döviz kurlarını alan bir Excel eklentisi.
 
-Sign & Go, bir mail imza çözümü. Temelinde, kurumsal kimliğinizi, bünyenizdeki herkesin attığı maillerde ortak tutmanın yararlarını göz önünde bulunduruyor. Yeni katılan kişilerin ya da bilgisayar değiştiren birisinin, sırf imzayı oluşturabilmek için başka birinden mail atmasını istemek, IT ekibinin klasik kullandığı ürünlerde sunulan yollarla, kısacası zorunda kalarak o şekilde yaptıkları ve aslında yönetim sırasında da zorluk çıkaran bazı baş ağrıtıcı durumları engellemek, şirket olarak yapılan etkinliklerin ve reklam kampanyalarının duyurabilabileceği bir alan sunmak gibi ek misyonları da var.
+---
+### Domain Resolver (PEAKUP)
 
-Oluşum süresince sadece bir kere revizyonda bulunduk. Daha doğrusu yeni versiyon çıkarttık diyelim :)
+Sağlanan domain için iyi bilinen posta sağlayıcılarını (örn; Office 365, Google Workspace) algılar.
+
+---
+### Quotes (PEAKUP)
+
+Satış ekibi için teklif süreci yönetim sistemi.
+
+---
+### [Licensing](https://licensing.peakup.org) (PEAKUP)
+
+Microsoft tabanlı lisansları yönetmek için portal.
+
+---
+### [Hodoor](https://hodoor.peakup.org) (PEAKUP)
+
+Personel devamlılık kontrol sistemi.
+
+---
+### [EnviSense](https://noa.peakup.org) (PEAKUP)
+
+Akıllı cihaz kontrol sistemi.
+
+---
+### Checkpoint (PEAKUP)
+
+Toplantı isteklerinin içine ayrıntılı konum bilgileri eklemek için Outlook for Windows'a yönelik bir eklenti.
+
+---
+### [One](https://one.peakup.org) (PEAKUP)
+
+Microsoft Graph ve Google Workspace kullanarak bulut tabanlı kullanıcılar, gruplar, etkinlikler ve dosyalar hakkında bilgi alabilen merkezi sistem.
+
+---
+### Meeting Manager - Backend (PEAKUP)
+
+Office 365 ile entegre olan toplantı odaları için yaklaşan toplantıları gösteren elektronik kağıt ekranlı bir sistem.
+
+---
+### [Approval](https://approval.peakup.org/) (PEAKUP)
+
+Süreç kabul kontrol sistemi.
