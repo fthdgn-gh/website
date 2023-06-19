@@ -15,7 +15,7 @@ Bunu ne için söylüyorum? Prensip edindiğim ya da edinmeye çalıştığım �
 
 Bir şeyi kaç kere tekrar ederseniz sizin bir parçanız haline gelir? Yani bir alışkanlık edinmek için bunu öncelikle bilinçli bir şekilde yapmak gerekiyor. Bir kaç dakika içerisinde yaptığım bir araştırma[^1], rutin olarak yapılan davranışların alışkanlık haline geldiğini söylüyor. Düşününce mantıklı, ama sanırım önce bunu merak edecek noktaya erişip, sonrasında araştırmak ve öğrenmek asıl konu.
 
-Rutinleri oturtmak ve sonrasında bunların alışkanlık haline gelmesi ise edinilen disiplin ile mümkün oluyor. Asıl soruya daha cevap vermedik. Psikolojik sınır 21 gün olduğu yönünde[^2] yazılar var. Sanırım milletlere göre de farklılık gösteriyormuş, bir arkadaşım öyle demişti bir ara.
+Rutinleri oturtmak ve sonrasında bunların alışkanlık haline gelmesi ise edinilen disiplin ile mümkün oluyor. Asıl soruya daha cevap vermedik. Psikolojik sınırın 21 gün olduğu yönünde[^2] yazılar var. Sanırım milletlere göre de farklılık gösteriyormuş, bir arkadaşım öyle demişti bir ara.
 
 ---
 Not: Bu edindiğim bilgiler tabii makalelerden. Bunların doğruluğunu kendin ayrıca sorgulayabilirsin, ki bunda fayda var.
