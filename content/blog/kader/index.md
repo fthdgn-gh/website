@@ -8,6 +8,7 @@ tags = [
     "karma",
     "yapay zeka",
     "dogmatik",
+    "quantum"
 ]
 +++
 
@@ -25,4 +26,4 @@ Filozoflar ise kendi bilgi birikiminin üzerine yaptığı düşünsel çalışm
 
 Bir insan hayatına sığmayacak bilgi birikimine kimse sahip olamayacağına göre, günümüz teknolojisi bizden daha uzun ve daha hızlı yaşayacak formlara yöneldi. Buradan yapay zeka bizim geleceğimiz gibi bir sonuç çıkıyor, ve biz kendi yetilerimizi bu zekalara aktarmaya çalışıyoruz. Umarım iyi yanlarımızı tam olarak aktarabilir, kötü yanlarımızı ise edinmelerini engelleyebiliriz.
 
-Yapay zekaların ise arafta kaldığı bir yer yok, belki Quantum gelişmeleri o olguyu yaratır. Bu iyi bir şey mi olur kötü bir şey mi, bilmiyorum, ama belki de yapay zekaların da bilmediklerini tamamlamaya yönelik kasları gelişir. Belki de bu bize bu doğal zekalar üretir, ve ilk defa farklı bir yaşam formu yaratmış oluruz, kim bilir?
+Yapay zekaların ise arafta kaldığı bir yer yok, belki quantum gelişmeleri o olguyu yaratır. Bu iyi bir şey mi olur kötü bir şey mi, bilmiyorum, ama belki de yapay zekaların da bilmediklerini tamamlamaya yönelik kasları gelişir. Belki de bu bize bu doğal zekalar üretir, ve ilk defa farklı bir yaşam formu yaratmış oluruz, kim bilir?
