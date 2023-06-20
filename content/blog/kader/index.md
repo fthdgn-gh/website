@@ -1,6 +1,6 @@
 +++
 title = "Araf"
-date = "2023-06-19"
+date = "2023-06-20"
 description = "Araf nedir? Kader diye bir şey var mıdır? Karma ile ilişiği nedir? Günümüz teknolojisi ile bağlantıları var mıdır?"
 tags = [
     "araf",
