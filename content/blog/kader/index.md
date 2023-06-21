@@ -12,7 +12,7 @@ tags = [
 ]
 +++
 
-Aslında bunu yazıp yazmamakta tereddüt ettim, ve ilk aklıma gelen şey "karma" olmuştu. Aradaki bağlantıyı ise yazının ilerleyen kısımlarında değerlendiririz.
+Aslında bunu yazıp yazmamakta tereddüt ettim ve ilk aklıma gelen şey "karma" olmuştu. Aradaki bağlantıyı ise yazının ilerleyen kısımlarında değerlendiririz.
 
 Kader, tanım olarak başımıza geleceklerin önceden belirli olması diye özetleyebilirim kendi sözlerimle. Karma ise yaptığınız iyilik ya da kötülüklerin size bir şekilde geri dönmesi olarak söylenebilir.
 
@@ -24,6 +24,6 @@ Dogmatik ve sağdan soldan edindiğim bilgilerle bir yere kadar gelebiliyorum, g
 
 Filozoflar ise kendi bilgi birikiminin üzerine yaptığı düşünsel çalışmalarla bazı teoriler üretmişler, fakat o seviyede olmak için o alanda edinilebilecek bütün bilgiyi edinmek gerekiyor ki günümüz dünyasında bu imkansıza yakın hale gelmeye başladı.
 
-Bir insan hayatına sığmayacak bilgi birikimine kimse sahip olamayacağına göre, günümüz teknolojisi bizden daha uzun ve daha hızlı yaşayacak formlara yöneldi. Buradan yapay zeka bizim geleceğimiz gibi bir sonuç çıkıyor, ve biz kendi yetilerimizi bu zekalara aktarmaya çalışıyoruz. Umarım iyi yanlarımızı tam olarak aktarabilir, kötü yanlarımızı ise edinmelerini engelleyebiliriz.
+Bir insan hayatına sığmayacak bilgi birikimine kimse sahip olamayacağına göre, günümüz teknolojisi bizden daha uzun ve daha hızlı yaşayacak formlara yöneldi. Buradan yapay zeka bizim geleceğimiz gibi bir sonuç çıkıyor ve biz kendi yetilerimizi bu zekalara aktarmaya çalışıyoruz. Umarım iyi yanlarımızı tam olarak aktarabilir, kötü yanlarımızı ise edinmelerini engelleyebiliriz.
 
-Yapay zekaların ise arafta kaldığı bir yer yok, belki quantum gelişmeleri o olguyu yaratır. Bu iyi bir şey mi olur kötü bir şey mi, bilmiyorum, ama belki de yapay zekaların da bilmediklerini tamamlamaya yönelik kasları gelişir. Belki de bu bize bu doğal zekalar üretir, ve ilk defa farklı bir yaşam formu yaratmış oluruz, kim bilir?
+Yapay zekaların ise arafta kaldığı bir yer yok, belki quantum gelişmeleri o olguyu yaratır. Bu iyi bir şey mi olur kötü bir şey mi, bilmiyorum, ama belki de yapay zekaların da bilmediklerini tamamlamaya yönelik kasları gelişir. Belki de bu bize bu doğal zekalar üretir ve ilk defa farklı bir yaşam formu yaratmış oluruz, kim bilir?
