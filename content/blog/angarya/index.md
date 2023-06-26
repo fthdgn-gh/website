@@ -1,6 +1,6 @@
 +++
 title = "Angarya"
-date = "2023-06-19"
+date = "2023-06-26"
 description = "Angarya nedir? Bize etkileri nelerdir?"
 tags = [
     "angarya"
