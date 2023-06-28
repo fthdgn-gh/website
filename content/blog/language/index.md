@@ -22,6 +22,6 @@ The meaning of it is that, if you know another language, you become two people, 
 
 There [are](https://hugagroup.medium.com/do-you-feel-like-a-different-person-when-you-speak-a-foreign-language-here-is-why-61046ca3d4d3) [some](https://www.cxomedia.id/general-knowledge/20221102131001-55-176886/different-language-equals-different-personality-is-it-really-true) [debates](https://www.su.se/centre-for-research-on-bilingualism/news/hej-hello-hola-does-your-personality-change-when-you-speak-another-language-1.634295) about it.
 
-Having affected by it, I strongly believe that it's the case, and the key is to integrate it.
+Having affected by it, I strongly believe that it's the case, and the key is to integrate it to our lives.
 
 So, to sum up; We wouldn't be here without it and with it we are becoming more than what we are.
