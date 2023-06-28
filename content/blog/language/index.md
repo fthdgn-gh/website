@@ -1,5 +1,6 @@
 +++
 title = "Language"
+slug = "language"
 date = "2023-06-28"
 description = "About language and it's effects on human being."
 tags = [

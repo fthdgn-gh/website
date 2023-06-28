@@ -1,3 +1,8 @@
++++
+title = "Ana Sayfa"
+permalink = "/"
++++
+
 ## Merhaba, ben Fatih.
 
 ### Sıradan bir geliştiriciyim. 

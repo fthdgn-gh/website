@@ -14,10 +14,19 @@ enableRobotsTXT = true
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+DefaultContentLanguage = "tr"
 [permalinks]
   blog = "/blog/:slug/"
   tags = "/tags/:slug"
   videos = "/videos/:slug"
+
+[languages]
+  [languages.tr]
+    weight = 1
+  [languages.en]
+    weight = 2
+    [languages.en.params]
+      description = "Programming and some other stuff"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.

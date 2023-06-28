@@ -1,5 +1,6 @@
 +++
 title = "Projeler"
+permalink = "projects"
 +++
 
 # Projeler
