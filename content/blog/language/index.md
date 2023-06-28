@@ -8,9 +8,9 @@ tags = [
 ]
 +++
 
-Language is one of the most facinating aspects of human beings, it effectively made us what we are right now and without it we would probably still be in the mud.
+Language is one of the most fascinating aspects of human beings, it effectively made us what we are right now and without it we would probably still be in the mud.
 
-To cut short, the need for expression of our thoughs and emotions leaded us to this path and gradually became one of the most important part of our lifes.
+To cut short, the need for expression of our thoughs and emotions leaded us to this path and gradually became one of the most important part of our lives.
 
 We try to express ourselves through sound and gestures but why do we do that? Why do we have the need for expression?
 
