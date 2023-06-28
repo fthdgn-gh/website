@@ -24,4 +24,4 @@ There [are](https://hugagroup.medium.com/do-you-feel-like-a-different-person-whe
 
 Having affected by it, I strongly believe that it's the case, and the key is to integrate it to our lives.
 
-So, to sum up; We wouldn't be here without it and with it we are becoming more than what we are.
+So, to sum up; We wouldn't have civilized without it and with it we are becoming more than what we are.
