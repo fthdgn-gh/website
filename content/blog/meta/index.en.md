@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Preface: This is my first English post. Well, technically this is the second one but the first one is in my Turkish blog and I added multi-language support to my site yesterday, so...
+Note: This is my first English post. Well, technically this is the second one but the first one is in my Turkish blog and I added multi-language support to my site yesterday, so...
 
 ---
 
