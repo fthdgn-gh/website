@@ -28,4 +28,4 @@ I believe humanity have past some sort of limit and started thinking about think
 
 Anyway, the subject here is not AI, but meta itself.
 
-Like it said on the wiki page, the whole premise is "X about X", and that's it. Writing about writing, watching about watching, reading about reading. Go ahead, try it and have some thoughts about it for me if you haven't already, would you?
+Like it said on the wiki page, the whole premise is "X about X", and that's it. Writing about writing, watching about watching, reading about reading. Go ahead, try it and have some thoughts about it if you haven't already, would you?
