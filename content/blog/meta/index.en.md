@@ -26,6 +26,6 @@ Programming also have a field called meta-programming which about writing progra
 
 I believe humanity have past some sort of limit and started thinking about thinking and now we are on the way to create the ultimate meta-program called AI.
 
-Anyway, the subject here is not AI, but meta itself.
+Anyway, the subject here is not the AI, but meta itself.
 
 Like it said on the wiki page, the whole premise is "X about X", and that's it. Writing about writing, watching about watching, reading about reading. Go ahead, try it and have some thoughts about it if you haven't already.
