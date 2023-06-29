@@ -12,7 +12,7 @@ Note: This is my first English post. Well, technically this is the second one bu
 
 ---
 
-I want to talk about meta and I want to talk about talking about it. It's strange that we are not talking about meta about meta, like it doesn't have it.
+I want to talk about meta and I want to talk about talking about it. It's strange that we are not talking about meta, ABOUT meta, like it doesn't have it.
 
 Not to deep dive in, let's start with the definition of meta; (of a creative work) referring to itself or to the conventions of its genre; self-referential. Here is also the [Wiki page](https://en.wikipedia.org/wiki/Meta) for it, go ahead and give it a read, I'll be right here.
 
