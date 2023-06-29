@@ -22,7 +22,7 @@ I find this stuff exciting. Talking about talking, joking about joking... It kin
 
 It also feels energetic. The more I want to talk about it, the more it brews up and the more I'll.
 
-Programming also have a field called meta-programming which about writing programs that will write programs. Great, right?
+Programming also have a field called meta-programming which about writing programs that can write programs. Great, right?
 
 I believe humanity have past some sort of limit and started thinking about thinking and now we are on the way to create the ultimate meta-program called AI.
 
