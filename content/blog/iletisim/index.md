@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Aklımdakileri kağıda dökmek belli bir seviyede kolay gelmiştir bana hep. Üzerinde istediğim kadar düşünebilirim, sonrasında düzenleyebilirim, Anlatmak istediğime daha yakın bir anlam katabilirim. Konuşurken bu pek olmuyor bana, sanırım pratik eksikliğinden.
+Aklımdakileri kağıda dökmek belli bir seviyede kolay gelmiştir bana hep. Üzerinde istediğim kadar düşünebilirim, sonrasında düzenleyebilirim, anlatmak istediğime daha yakın bir anlam katabilirim. Konuşurken bu pek olmuyor bana, sanırım pratik eksikliğinden.
 
 İletişim hakkında yazma fikri aslında dün geldi, fakat en az bir gün beklemek istedim.
 
