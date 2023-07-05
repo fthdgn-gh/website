@@ -3,11 +3,11 @@ title = "Development on an Ancient Windows Mobile Phone"
 slug = "development-on-an-ancient-windows-mobile-phone"
 date = "2023-07-05"
 description = "Running hello world application inside a phone that is running Windows Mobile 6 Standard"
+draft = true
 tags = [
     "development",
     "windows mobile",
 ]
-draft = true
 +++
 
 Note: This is my second try writing this post. First one was cut off because of some technical difficulties.
