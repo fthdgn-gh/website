@@ -7,6 +7,7 @@ tags = [
     "development",
     "windows mobile",
 ]
+draft = true
 +++
 
 Note: This is my second try writing this post. First one was cut off because of some technical difficulties.
