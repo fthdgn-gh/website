@@ -19,7 +19,7 @@ Eğer gününü daha verimli geçirmek istiyorsan, Everyman, Uberman ve Dymaxion
 
 Uyuduğumuzda ise büyük bir bölümü ağır uyku olsa da [REM](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep) adı verilen ve çok kısa süren bir fazda rüya görüyoruz.
 
-Tarihimizde ize hep bir anlama bağlamaya çalışmışız rüyaları. Bilim dünyasında ise beynimizin kendini ve gözlerimizi koruma yöntemi olduğunu savunan teoriler var[^1][^2].
+Tarihimizde ise hep bir anlama bağlamaya çalışmışız rüyaları. Bilim dünyasında ise beynimizin kendini ve gözlerimizi koruma yöntemi olduğunu savunan teoriler var[^1][^2].
 
 Bir yandan kendi anlamını çıkaran [lucid dream](https://en.wikipedia.org/wiki/Lucid_dream) yani berrak rüya görebilen insanlar var. Bu insanlar rüyalarını belli seviyede kontrol ederek istedikleri şekilde yönlendirebiliyorlar. Bir ara kendi kontrolüm dışında deneyimlediğim, sonrasında ise belli bir seviyede başarabildiğim bir konu olmuştu, şimdi ise rüya gördüğümde şaşırıyorum.
 
