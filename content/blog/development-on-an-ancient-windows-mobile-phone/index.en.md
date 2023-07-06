@@ -5,8 +5,23 @@ date = "2023-07-06"
 description = "Running hello world application inside a phone that is running Windows Mobile 6 Standard"
 images = [ "index.jpg" ]
 tags = [
-    "development",
+    "crea MS2",
     "windows mobile",
+    "windows xp",
+    "visual studio",
+    "activesync",
+    "hyper-v",
+    "windows mobile",
+    "development environment setup",
+    "smart device project",
+    ".net compact framework",
+    "vm installation",
+    "mobile application development",
+    "legacy technology",
+    "retro computing",
+    "windows mobile sdk",
+    "mobile development challenges",
+    "application deployment"
 ]
 +++
 
