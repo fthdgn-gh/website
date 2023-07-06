@@ -3,6 +3,7 @@ title = "Development on an Ancient Windows Mobile Phone"
 slug = "development-on-an-ancient-windows-mobile-phone"
 date = "2023-07-06"
 description = "Running hello world application inside a phone that is running Windows Mobile 6 Standard"
+images = [ "index.jpg" ]
 tags = [
     "development",
     "windows mobile",
