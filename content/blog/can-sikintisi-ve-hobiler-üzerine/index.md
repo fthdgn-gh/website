@@ -1,6 +1,6 @@
 +++
 title = "Can Sıkıntısı ve Hobiler Üzerine"
-slug = "can-sikintisi-ve-hobiler-üzerine"
+slug = "can-sikintisi-ve-hobiler-uzerine"
 date = "2023-07-13"
 description = "Can sıkıntısı ve hobiler üzerine düşüncelerim"
 images = [ "index.png" ]
