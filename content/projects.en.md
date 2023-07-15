@@ -1,6 +1,7 @@
 +++
 title = "Projects"
 permalink = "en/projects"
+comments = false
 +++
 
 # Projects

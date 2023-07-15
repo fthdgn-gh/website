@@ -1,6 +1,7 @@
 +++
 title = "Main Page"
 permalink = "/en"
+comments = false
 +++
 
 ## Hi, I'm Fatih.

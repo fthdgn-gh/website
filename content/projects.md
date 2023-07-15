@@ -1,6 +1,7 @@
 +++
 title = "Projeler"
 permalink = "projects"
+comments = false
 +++
 
 # Projeler
