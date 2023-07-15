@@ -24,7 +24,6 @@ tags = [
     "portable class libraries",
     "xamarin"
 ]
-comments = true
 +++
 
 Merak etmeyin, bu yazının ne Harry Potter, ne de maddeyi altına dönüştürme ile bir ilgisi yok. Bu yazı dizisinde daha çok, .NET Core ve .NET Standart’ın kendilerini, ortaya çıkmalarındaki nedenleri, ekosistemde yapacakları değişiklikleri ve bizim bu değişikliklere nasıl ayak uydurmamız gerektiği ile ilgili konuşacağız.
