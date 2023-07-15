@@ -1,7 +1,6 @@
 +++
 title = "Ana Sayfa"
 permalink = "/"
-comments = false
 +++
 
 ## Merhaba, ben Fatih.
