@@ -7,7 +7,7 @@ permalink = "/en"
 
 ### I'm just a normal developer.
 
-I'm trying to share my thoughts and actions here occasionally. You can find my blog posts and projects above :)
+I'm trying to share my thoughts and actions here occasionally. You can find my blog posts below and link to my projects above :)
 
 
 

@@ -3,8 +3,6 @@ title = "Projects"
 permalink = "en/projects"
 +++
 
-# Projects
-
 Throughout my life, I have developed and been involved in numerous projects of various sizes. Below is a reverse chronological list of some of them that come to mind. This list is, of course, currently incomplete. I will add future projects here as time allows.
 
 ---
