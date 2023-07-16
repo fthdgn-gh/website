@@ -10,6 +10,8 @@ tags = [
 ]
 +++
 
+![Can sıkıntısı ve Hobiler Üzerine](index.png)
+
 Evde internet kesik. Birisi sokağın başındaki internet kutusunun içindeki kabloları sökmüş. Bir insan neden bunu yapar anlamış değilim. Kabloları almamış, koparmış.
 
 Ben de evde pinekliyorum. Açtım biraz oyun oynadım, telefonda Twitter, LinkedIn, Reddit üçlemesinde gezindim, ara sıra sigara içtim, uzun zamandır aklımda olan bir karikatür derlemesini karıştırdım, evdeki MIDI klavye ile kendimce uğraştım ve evde internet yokken yapabileceğim şeylerin sonlandığını fark ettim. İstesem bir kitap açıp okuyabilirim, ya da yine oyun oynamaya devam edebilirim, ama canım istemiyor. Bu da beni bu konuda düşünmeye itti. Sıkılmadan yapabileceğim hiç bir şey yok, ama yapabileceğim şeylerin sayısını arttırırsam eğer bu durumdan kurtulabilirim gibi geliyor.

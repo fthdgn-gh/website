@@ -12,9 +12,11 @@ tags = [
 
 [Can Sıkıntısı ve Hobiler Üzerine - Part I](/blog/can-sikintisi-ve-hobiler-uzerine)
 
-Öncelikle bahsetmek istediğim konu; geçen yazdığım yazıda koleksiyoncu insanları biraz kızdırabileceğini düşündüm, o sebeple konuya açıklık getirmek isterim. Sanırım ben de biraz olsun koleksiyon yapıyorum. Evde eski telefonlardan oluşan bir koleksiyon ve arada bir açıp oyun oynadığım konsol koleksiyonum var. Bunları zaman içerisinde koleksiyon yapmak amaçlı almadım açıkçası ama neden hala tuttuğumu bilmiyorum. Alınan bir eşyayı satma ile ilgili bazı ön yargılarım var sanırım, tam bilmiyorum.
+![Can sıkıntısı ve Hobiler Üzerine - Part II](index.jpg)
 
-O gün Aşiyan'a gittim, biraz gezindim, eve geldiğimde ise internet gelmişti, artık rahatça internette dolaşabiliyorum.
+Öncelikle bahsetmek istediğim konu; geçen yazdığım yazıda koleksiyoner insanları biraz kızdırabileceğini düşündüm, o sebeple konuya açıklık getirmek isterim. Sanırım ben de biraz olsun koleksiyon yapıyorum. Evde eski telefonlardan oluşan bir koleksiyon ve arada bir açıp oyun oynadığım konsol koleksiyonum var. Bunları zaman içerisinde koleksiyon yapmak amaçlı almadım açıkçası ama neden hala tuttuğumu bilmiyorum. Alınan bir eşyayı satma ile ilgili bazı ön yargılarım var sanırım, tam bilmiyorum.
+
+O gün Aşiyan'a gittim, biraz gezindim, eve geldiğimde ise internet gelmişti.
 
 Fakat, internet olsa bile bu ikilemi yine yaşadığımı fark ettim. Aklıma bir şey koyduğunda yapan bir insanım, ama öncesinde aklıma bir şey koyma konusunda eksiklerim var. Bu aralar ise boşluğa düştüğümde kendimi yazı yazarken bulduğumu fark ettim, sanırım yazı yazmak gerçekten hobim oldu.
 
