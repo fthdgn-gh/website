@@ -5,6 +5,7 @@ author: Fatih Doğan
 languageCode: tr-TR
 copyright: Copyright © 2020, Fatih Doğan.
 enableRobotsTXT: true
+disqusShortname: fatihdgn
 disableKinds:
   - taxonomy
 ignoreErrors:
@@ -39,6 +40,9 @@ languages:
     weight: 2
     params:
       description: Programming and some other stuff
+      homeInfoParams:
+        Title: Hi, I'm Fatih 👋
+        Content: I'm trying to share my thoughts and actions here occasionally.
 params:
   env: production
   description: Programlama ve bazı şeyler
@@ -46,3 +50,23 @@ params:
   images:
     - images/share.png
   title: Fatih Doğan
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  comments: true
+  homeInfoParams:
+        Title: Merhaba, ben Fatih 👋
+        Content: Düşüncelerimi ve yaptıklarımı arada bir de olsa burada paylaşmaya çalışıyorum.
+  socialIcons:
+    - name: "Twitter"
+      url: https://twitter.com/fatihdgntr
+    - name: "YouTube"
+      url: https://www.youtube.com/channel/UCL_3Q1jbOhNuhcThWpeRLSA
+    - name: "LinkedIn"
+      url: https://www.linkedin.com/in/fatihdgn
+    - name: "Github"
+      url: https://github.com/fatihdgn
+    - name: "Mail"
+      url: mailto:fth.dgn@outlook.com
+  cover:
+    linkFullImages: true

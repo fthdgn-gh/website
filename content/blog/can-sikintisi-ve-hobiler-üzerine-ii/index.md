@@ -1,18 +1,18 @@
-+++
-title = "Can Sıkıntısı ve Hobiler Üzerine II"
-slug = "can-sikintisi-ve-hobiler-uzerine-ii"
-date = "2023-07-15"
-description = "Can sıkıntısı ve hobiler üzerine biraz daha düşünceler"
-images = [ "index.jpg" ]
-tags = [
-  "can sıkıntısı",
-  "hobiler",
-]
-+++
+---
+title: Can Sıkıntısı ve Hobiler Üzerine II
+slug: can-sikintisi-ve-hobiler-uzerine-ii
+date: 2023-07-15
+description: Can sıkıntısı ve hobiler üzerine biraz daha düşünceler
+images:
+  - images/index.jpg
+tags:
+  - can sıkıntısı
+  - hobiler
+---
 
 [Can Sıkıntısı ve Hobiler Üzerine - Part I](/blog/can-sikintisi-ve-hobiler-uzerine)
 
-![Can sıkıntısı ve Hobiler Üzerine - Part II](index.jpg)
+![Can sıkıntısı ve Hobiler Üzerine - Part II](images/index.jpg)
 
 Öncelikle bahsetmek istediğim konu; geçen yazdığım yazıda koleksiyoner insanları biraz kızdırabileceğini düşündüm, o sebeple konuya açıklık getirmek isterim. Sanırım ben de biraz olsun koleksiyon yapıyorum. Evde eski telefonlardan oluşan bir koleksiyon ve arada bir açıp oyun oynadığım konsol koleksiyonum var. Bunları zaman içerisinde koleksiyon yapmak amaçlı almadım açıkçası ama neden hala tuttuğumu bilmiyorum. Alınan bir eşyayı satma ile ilgili bazı ön yargılarım var sanırım, tam bilmiyorum.
 
