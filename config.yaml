@@ -1,0 +1,48 @@
+baseURL: https://fatihdgn.com
+theme: PaperMod
+title: Fatih Doğan
+author: Fatih Doğan
+languageCode: tr-TR
+copyright: Copyright © 2020, Fatih Doğan.
+enableRobotsTXT: true
+disableKinds:
+  - taxonomy
+ignoreErrors:
+  - error-disable-taxonomy
+DefaultContentLanguage: tr
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+permalinks:
+  blog: /blog/:slug/
+  tags: /tags/:slug
+  videos: /videos/:slug
+languages:
+  tr:
+    menu:
+      main:
+        - identifier: projects
+          name: Projeler
+          url: /projects/
+          weight: 10
+    weight: 1
+  en:
+    menu:
+      main:
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 10
+    weight: 2
+    params:
+      description: Programming and some other stuff
+params:
+  env: production
+  description: Programlama ve bazı şeyler
+  favicon: images/favicon.png
+  images:
+    - images/share.png
+  title: Fatih Doğan
