@@ -44,6 +44,8 @@ languages:
         Title: Hi, I'm Fatih 👋
         Content: I'm trying to share my thoughts and actions here occasionally.
 params:
+  assets:
+    disableFingerprinting: true
   env: production
   description: Programlama ve bazı şeyler
   favicon: images/favicon.png
