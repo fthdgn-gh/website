@@ -9,11 +9,13 @@ tags:
   - internet
 ---
 
+![Internet (temsili)](index.png)
+
 İnternetim yine kesik. İnsan gerçekten bir şeyi kaybettiğinde yokluğunu anlıyor gibi bir şey söylemeyeceğim, sonuçta o kadar da elzem bir şey değil, yani, olmamalı.
 
 Telefonumun interneti ile idare ediyorum.
 
-Askeri bir ihtiyaç üzerine çıkmış bir teknolojinin, bir gün bütün dünyayı kapsayan bir ağa dönüşeceğini kim bilebilirdi? Belli ki insanlardaki bağlantı yadsınamayacak bir seviyede.
+Askeri bir ihtiyaç üzerine çıkmış bir teknolojinin, bir gün bütün dünyayı kapsayan bir ağa dönüşeceğini kim bilebilirdi? Belli ki insanlardaki bağlantı ihtiyacı yadsınamayacak bir seviyede.
 
 Elzem olmaması gerek desem bile belli bir kesim için öyle bir noktaya geldiğini söyleyebilirim. Örneğin ben, elimden geldiğince bütün işlerimi internet üzerinden halletmeye çalışan birisiyim. Mesleğimin çok büyük bir kısmı internete bağlı çalışıyor. İnternet olmadığında belli seviyede çalışamaz hale gelebiliyorum. Eğlencemin ise büyük bir çoğunluğu yine internet üzerinden. Film ve dizileri internetten izliyor, keza herkes gibi sosyal medyayı da onun aracılığı ile takip ediyorum. 
 
