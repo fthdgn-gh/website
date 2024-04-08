@@ -9,9 +9,8 @@ tags = [
     "linux",
     "manjaro"
 ]
-draft=true
-+++
 
++++
 ![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)
 
 So, hello again? It's been a while.
@@ -140,9 +139,9 @@ I do not recommend it if you don't know what you are doing tho. Setting it up is
 
 ##### Note for me and to people who decided to go down to this path
 
-For Manjaro Plasma, add the Howdy lines below to the "sudo", "kde" and "polkit-1" pam files and right before the "auth include system-auth" line. They are located at /etc/pam.d
+For Manjaro Plasma, make sure that you have "base-devel" package installed before installing "howdy" package. Add the Howdy lines below to the "sudo", "kde" and "polkit-1" pam files and right before the "auth include system-auth" line. They are located at /etc/pam.d
 
-"polkit-1" file might not be there, I just copied "sudo" file after modifying it and it worked.
+"polkit-1" file might not be there, just copy "sudo" file after modifying it and it works.
 
 ###### Howdy lines
 ```sh
