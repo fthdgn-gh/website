@@ -2,8 +2,8 @@
 title = "Journey to Linux from Windows"
 slug = "journey-to-linux-from-windows"
 date = "2024-04-04"
-description = "The journey of switching to Linux from Windows."
-images = [ "index.webp" ]
+description = "The journey of switching to Linux from Windows"
+images = [ "~/images/journey-to-linux-from-windows/index.webp" ]
 tags = [
     "windows",
     "linux",
@@ -18,29 +18,39 @@ So, hello again? It's been a while.
 
 I'm trying to switch to a different operating system, namely Linux, more specifically Manjaro. 
 
-This is not my first rodeo. I've tried multitude of distros back in the day, but after a while, I always found myself back in Windows. Whether it be a little annoyance to huge problems, Linux has always been rough for me.
+This is not my first rodeo tho. I've tried multitude of distros back in the day, but after a while, I always found myself back in Windows. Whether it be a little annoyance to a huge problems, Linux has always been rough for me.
 
-But it's been 2-3 weeks now and it's my record of not returning to Windows, so I hope it sticks.
+But it's been about a month now and it's my personal record of not returning to Windows, so, yay!
 
-I wanted to write this post to share my experience, help someone else - maybe you and reference it back if I need to in the future.
+I wanted to write this post to share my experience, help someone else a bit - maybe you and reference it back if I need to in the future. Please note that it's not a guide on how you can setup and/or apply these apps and customizations, I'm just going to mention them and try to explain why I made these choices.
 
 ## A quick note for the tech savvy
 
 So, if you know what I'm talking about, you might say to yourself "Then why the hell are you trying to switch to an Arch-based system?". Well, let me explain.
 
-As I said before, I've tried most them, ranging from Ubuntu to Arch. Ubuntu is a bit friendly, but I don't like Canonical anymore - I can list bunch of reasons but ditching Ubuntu Phone and Touch alone is enough, so, it's not an option for me anymore. Also Arch is too demanding for me and living on the bleeding edge is not something I want to do on my daily driver. Manjaro is stable enough and offers rolling updates. That's pretty much it. Flexibility of Arch, stability (kinda) of Ubuntu. Perfect middle ground for me. Also, I have this itch that says "Try it again. Why not?". You already have to format your PC after a while if you are using Windows, you know. So, I scratched that itch and installed it. 
+As I said before, I've tried most them, ranging from Ubuntu to Arch. Ubuntu is a bit friendly, but I don't like Canonical anymore - I can list bunch of reasons but ditching Ubuntu Phone and Touch alone is enough, so, it's not an option for me anymore. Also Arch is too demanding and living on the bleeding edge is not something I want to do on my daily driver. Manjaro is stable enough and offers rolling updates. That's pretty much it. Flexibility of Arch, stability (kinda) of Ubuntu. Perfect middle ground for me. Also, I have this itch that says "Try it again. Why not?" and I already had to format my PC because it was time - Windows problems, so, I scratched that itch and installed it. 
 
 ## Apps
 
-Let's start with apps that I use.
+Let's start with what apps I'm using. I also want to mention as a side note that, you have to enable Flatpak and AUR support within the software center to find and install some of the applications below.
 
 ### Browser - Google Chrome and Firefox
 
-One of the things that I can't change right now is the browser that I use. I'm too bound to Google Chrome. I have all the necessary information in there. Also, the UI is fine, other offerings are not that much appealing to me. I'm trying to use Firefox in the mean time and maybe I'll switch to it in the future.
+One of the things that I can't change right now is the browser that I use. I'm too bound to Google Chrome and Google in general - which is something that I also don't like, but, hey, I'm also the person who chose to use these "free" services back in the day, so, it is what it is at the moment. I'm trying to use Firefox in the mean time and maybe I'll switch to it in the future.
 
 ### Music Player - [Cider](https://cider.sh/) 
 
-Music is an important part of my life. I've switched to Apple Music about a month ago from Spotify because of the music quality difference between them and I enjoy Hi-res Lossless music from my Android phone. Windows has a great app directly from Apple but Linux on the other hand, don't. Cider is a great alternative that has the Linux version. It has two versions, one of them is called "Classic" and it's free. It's not in active development anymore but it does the job. The other one is paid but after using Classic for a while, I decided to buy it and I'm happy with my purchase.
+Music is an important part of my life. I've switched to Apple Music about a month ago from Spotify because of the music quality difference between them and I enjoy Hi-res Lossless music from my Android phone. Windows has a great app directly from Apple but Linux on the other hand, don't. Cider is a great alternative that has the Linux version. It has two versions, one of them is called "Classic" and it's free. It's not in active development anymore but it does the job. The other one is paid but after using Classic for a while, I decided to buy it and I'm happy with my purchase. 
+
+Beware that, it doesn't support Lossless options at the moment and may never will, because of Apple and how they designed their API's that these kind of applications can use. To remedy this a bit, Cider has something called "Cider Adrenaline Processor™" that processes the sound that is coming out of your speakers and I think it's pretty solid.
+
+### Sound - EasyEffects and Presets
+
+As I said before, music is an important part of my life and hence, sound is kind of a deal-breaker for me. Sadly, when I switched to Manjaro, the sound quality was bad. My machine supports THX technology but as far as I was able to hear, it was not in use. Did a little bit of digging and found out that the drivers for linux was non-existent - I'm really not surprised. But not all was lost because Linux had a couple of tricks under it's sleeve for this exact situation.
+
+Manjaro uses [PipeWire](https://www.pipewire.org/) underneath by default. This project aims to improve handling of video and audio content for Linux. Coupled with an application called EasyEffects, you can tweak your sound profile by creating series of effects contained within a preset. But, to understand what needs to be done manually, you have to know couple of sound related stuff. If you are not a sound engineer(!), there are pre-made presets that you can download and apply. [EasyEffects-Presets by JackHack96](https://github.com/JackHack96/EasyEffects-Presets) is a popular project that I've encountered. It has 7 presets that you can choose from. I'm personally using "Laptop" preset and I'm happy with the results.
+
+I've also followed a bit of this [tutorial post from Manjaro forum](https://forum.manjaro.org/t/how-to-make-linux-sound-great/146143) and it's comments. I also advise you to look at it if you want to traverse this path.
 
 ### Communication - WhatsApp, Telegram and Discord
 
@@ -120,8 +130,68 @@ I found that "Fragments" is an easy to use application for torrent needs and I d
 
 My choice of office application is Libre Office. Linux have couple other options, so you can choose from any of them to your liking.
 
+#### "Windows Hello™" - Howdy
+
+My computer also has a IR camera that Windows utilizes it to authenticate users. This service is called "Windows Hello™". Windows Hello™ also includes authentication options like fingerprint if your computer has it but mine does not.
+
+Looking through the internet for options to authenticate in Linux using this IR camera, I encountered "Howdy". After dabbling with it for a while, I was able to setup and use it. Kinda. I still couldn't figure out how can I use it at the first login but other than that, I can just press enter to any password prompt and Howdy takes care the rest of it. 
+
+I do not recommend it if you don't know what you are doing tho. Setting it up is a really involved process and there is a chance of bricking your system. If you still want to do it, do not proceed before taking a backup, you can use Timeshift I mentioned above to do it.
+
+##### Note for me and to people who decided to go down to this path
+
+For Manjaro Plasma, add the Howdy lines below to the "sudo", "kde" and "polkit-1" pam files and right before the "auth include system-auth" line. They are located at /etc/pam.d
+
+"polkit-1" file might not be there, I just copied "sudo" file after modifying it and it worked.
+
+###### Howdy lines
+```sh
+auth    sufficient      pam_unix.so try_first_pass likeauth nullok
+auth    sufficient      pam_python.so /lib/security/howdy/pam.py
+```
+
 ## Desktop Environment, Display Manager and Customization
 
-The thing about Linux based operating systems is that you can customize them however you want. You didn't like the look of your desktop? Go ahead, customize it. You didn't like how your login screen works? Just change it. You want to delete your boot loader for some reason? Sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled   
+The thing about Linux based operating systems is that you can customize them however you want. You didn't like the look of your desktop? Go ahead, customize it. You didn't like how your login screen works? Just change it. You want to delete your boot loader for some reason? Sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled between other popular operating systems.
 
-My desktop environment of choice is KDE Plasma. With the Plasma variant of Manjaro, it's coming pre-installed. As a display manager, SDDM is also coming pre-installed with Plasma variant of Manjaro. I haven't changed them. What I did was tho, customize them. I haven't touched SDDM yet, but I've installed themes, widgets and did much more within KDE Plasma.
+My desktop environment of choice is KDE Plasma. If you choose to download the Plasma variant of Manjaro, it's coming pre-installed. As a display manager, SDDM is also coming pre-installed with Plasma variant of Manjaro. I haven't changed them. What I did was tho, customize them. I've installed themes, widgets, icons, cursors... There are limitless options you can choose from and with them, you can create a unique system that fits you and your needs.
+
+Let's get into what I'm using currently.
+
+### Wallpaper - Picture of the Day (Bing)
+
+Yes, I like having different wallpapers everyday. I was already using Bing daily wallpapers on my Windows machine and I was surprised and happy to see that I can use it here too.
+
+### Theme - Utterly Sweet
+
+This theme is a glossy dark theme and I really liked it when I saw it. It integrates really nicely and haven't given me any problems whatsoever. Here are some other customizations that I did to sub options.
+
+- Plasma Style - Utterly-Round
+- Window Decorations - Utterly-Round-Dark
+- Icons - candy-icons
+- Cursors - Sweet-cursors
+- Splash Screen - Utterly Sweet
+
+Please note that, for the login screen (SDDM) theme, you have to find and set it separately. I'm also using Utterly-Sweet theme here. Remember to "Apply Plasma Settings" after you set this theme to see all the effects and changes you've made so far is reflected to the login screen too.
+
+### Widgets
+
+#### Weather Report
+
+It's a taskbar widget that allows you to see the current weather condition. When you click on it, you can see more information like temperature and brief hourly forecasts.
+
+#### Advanced Radio Player
+
+It's, again, an another taskbar widget that does what it says. It allows you to listen to couple of online radios. I'm not using it frequently but it's there if I need it.
+
+#### Better Inline Clock 
+
+It's a clock widget and personally it's really a better inline clock alternative from what you get by default. I've set it to show the date and time horizontally rather then vertically. It allows me to set my taskbar height to a much more smaller size.
+
+#### Control Centre
+
+It's a nice, macOS and Windows inspired control center widget. It's pretty handy to have volume, brightness, media, bluetooth and much more options in the same window.
+
+## Last words
+
+II'm pretty happy with my experience and setup at the moment. I don't plan to go back to Windows ever again on my personal computer and I'm hoping that I'll not feel the need to. I hope this was a good read and helpful a bit.
