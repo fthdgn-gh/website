@@ -161,6 +161,8 @@ I've got Google Drive, Microsoft OneDrive, Dropbox and MEGA accounts that I use 
 
 Follow [this](https://gist.github.com/Gyarbij/4dc1fe668b6e7d804b490bebddd3ac80) guide and [this](https://github.com/tynor88/docker-rclone-mount/issues/2#issuecomment-470129261) comment to set it up properly.
 
+Remove the comments (parts that starts with #) from the sample configuration because it breaks the service.
+
 Create different services and cache folders for each cloud storage you want to sync.
 
 ## Desktop Environment, Display Manager and Customization
