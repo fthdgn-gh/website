@@ -67,7 +67,7 @@ Yes, the service of choice for note taking purposes for me was and in some cases
 
 For OneNote, I'm using a community-made package called [P3X OneNote Linux](https://github.com/patrikx3/onenote). It does the job. The same statement that I did for WhatsApp Desktop for Linux also applies to this package.
 
-For Obsidian, I've already created a repo in my GitHub account back in the day and I'm syncing my notes to it. I'm also using "Git" community plugin to make my setup work. They are also synced with OneDrive just in case.
+For Obsidian, I've already created a repo in my GitHub account back in the day and I'm syncing my notes to it. I'm also using "Git" community plugin to make my setup work. They are also synced with OneDrive just in case, I'll be back on that later about how.
 
 When I made the switch to Linux, I moved most of notes there. But not all of my notes are there at the moment, I'm still using OneNote for some of my notes. 
 
