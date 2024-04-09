@@ -9,7 +9,6 @@ tags = [
     "linux",
     "manjaro"
 ]
-draft=true
 +++
 ![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)
 
@@ -61,9 +60,17 @@ On the other hand, Telegram and Discord have native versions of their respective
 
 I have two mail accounts at the moment, namely Outlook and GMail. I've been using the new Outlook on Windows, it's alright, but on Linux, I don't have that option. I wanted to try Thunderbird from Mozilla using this experiment as an excuse and it's been great. I would recommend using it for your mailing needs.
 
-### Note - Microsoft OneNote(?!)
+### Note - Microsoft OneNote and Obsidian
 
-Yes, the service of choice for note taking purposes for me is Microsoft OneNote. I did get used to it on Windows and I've been using it for a long time. I did search for an alternative when I switched to Linux, even considering on migrating the notes that I have in there, which "will" take a hefty of time but at the end, I couldn't find an acceptable alternative for my needs. So, again, I'm using a community-made package called [P3X OneNote Linux](https://github.com/patrikx3/onenote). It does the job. The same statement that I did for WhatsApp Desktop for Linux also applies to this package.
+Yes, the service of choice for note taking purposes for me was and in some cases still is Microsoft OneNote. I did get used to it back on Windows and I've been using it for a long time. I also did use Obsidian a bit but it was not my go to app.
+
+For OneNote, I'm using a community-made package called [P3X OneNote Linux](https://github.com/patrikx3/onenote). It does the job. The same statement that I did for WhatsApp Desktop for Linux also applies to this package.
+
+For Obsidian, I've already created a repo in my GitHub account back in the day and I'm syncing my notes to it. I'm also using "Git" community plugin to make my setup work. They are also synced with OneDrive just in case.
+
+When I made the switch to Linux, I moved most of notes there. But not all of my notes are there at the moment, I'm still using OneNote for some of my notes. 
+
+I'm trying to figure out how I'm going to reach to my notes through my phones at the moment. I need to be able to access to my notes from my iOS and Android phones as well as my PC. Obsidian for iOS has a sync option for iCloud but just that. I might consider subscribing to "Obsidian Sync" but not for now. I'll update this post when and if I find a solution for this situation.
 
 ### Editors - VS Code and Notepadqq
 
