@@ -61,6 +61,10 @@ On the other hand, Telegram and Discord have native versions of their respective
 
 I have two mail accounts at the moment, namely Outlook and GMail. I've been using the new Outlook on Windows, it's alright, but on Linux, I don't have that option. I wanted to try Thunderbird from Mozilla using this experiment as an excuse and it's been great. I would recommend using it for your mailing needs.
 
+### Office Suite - Libre Office
+
+My choice of office application is Libre Office. Linux have couple other options, so you can choose from any of them to your liking.
+
 ### Note - Microsoft OneNote and Obsidian
 
 Yes, the service of choice for note taking purposes for me was and in some cases still is Microsoft OneNote. I did get used to it back on Windows and I've been using it for a long time. I also did use Obsidian a bit but it was not my go to app.
@@ -77,9 +81,9 @@ I'm trying to figure out how I'm going to reach to my notes through my phones at
 
 VS Code is my editor of choice for a lot of my editing needs. I've been using it on Windows a lot and the same app is also available for Linux.
 
-I want to also mention in this section that, how Microsoft turned out to be after Satya Nadella started to run the company. It's more open now, thanks to him and VS Code is one of the things that made possible.
+I want to also mention in this section that, how Microsoft turned out to be after Satya Nadella started to run the company. It's more open now, thanks to him and VS Code is one of the things that was possible thanks to him.
 
-I also used Notepad++ on Windows. Notepadqq is a direct replacement for it. I've been using it with no issues.
+I was also using Notepad++ on Windows and Notepadqq is a direct replacement for it. I've been using it with no issues.
 
 ### IDE - Rider EAP
 
@@ -133,10 +137,6 @@ Manjaro doesn't include any software for camera. I don't know why but you can in
 
 I found that "Fragments" is an easy to use application for torrent needs and I didn't have any problems using it.
 
-#### Office Suite - Libre Office
-
-My choice of office application is Libre Office. Linux have couple other options, so you can choose from any of them to your liking.
-
 #### "Windows Hello™" - Howdy
 
 My computer also has a IR camera that Windows utilizes it to authenticate users. This service is called "Windows Hello™". Windows Hello™ also includes authentication options like fingerprint if your computer has it but mine does not.
@@ -176,6 +176,16 @@ Create different services and cache folders for each cloud storage you want to s
 #### Disk Usage Analyzer - Baobab
 
 I've been using WinDirStat on Windows for analyzing disk usage to find out which files and folders were eating up my storage. Baobab does exactly that on Linux and it's a great alternative.
+
+### Optional
+
+#### Microsoft Fonts - ttf-ms-win11-auto
+
+If you have a license for Windows 11 and want to use the fonts from it, then you can just grab this package and install all of the fonts. Including Comic Sans. It just makes some sites to look how you used to and viewing and editing Office files easier and much more compatible.
+
+Well, if you don't have Windows 11 but have 10 for example, then you can just use "ttf-ms-win10-auto" instead.
+
+In fact, there are bunch of options to choose from [here](https://wiki.archlinux.org/title/Microsoft_fonts) depending on which version of Windows or Office you have. You can just use that package instead. Beware that you need your installation media ready for those "non auto" packages.
 
 ## Desktop Environment, Display Manager and Customization
 
