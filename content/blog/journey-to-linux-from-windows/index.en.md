@@ -9,6 +9,7 @@ tags = [
     "linux",
     "manjaro"
 ]
+draft=true
 +++
 ![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)
 
