@@ -9,7 +9,7 @@ tags = [
     "linux",
     "manjaro"
 ]
-
+draft=true
 +++
 ![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)
 
@@ -137,9 +137,11 @@ Looking through the internet for options to authenticate in Linux using this IR 
 
 I do not recommend it if you don't know what you are doing tho. Setting it up is a really involved process and there is a chance of bricking your system. If you still want to do it, do not proceed before taking a backup, you can use Timeshift I mentioned above to do it.
 
-##### Note for me and to people who decided to go down to this path
+##### Note for me and to the people who decided to go down to this path
 
-For Manjaro Plasma, make sure that you have "base-devel" package installed before installing "howdy" package. Add the Howdy lines below to the "sudo", "kde" and "polkit-1" pam files and right before the "auth include system-auth" line. They are located at /etc/pam.d
+For Manjaro Plasma, make sure that you have "base-devel" package installed before installing "howdy" package. 
+
+Add the Howdy lines below to the "sudo", "kde" and "polkit-1" pam files and right before the "auth include system-auth" line. They are located at /etc/pam.d
 
 "polkit-1" file might not be there, just copy "sudo" file after modifying it and it works.
 
@@ -147,7 +149,19 @@ For Manjaro Plasma, make sure that you have "base-devel" package installed befor
 ```sh
 auth    sufficient      pam_unix.so try_first_pass likeauth nullok
 auth    sufficient      pam_python.so /lib/security/howdy/pam.py
+
+
 ```
+
+#### Cloud Storage - rclone
+
+I've got Google Drive, Microsoft OneDrive, Dropbox and MEGA accounts that I use and "rclone" is a tool for using your cloud storage right from your file explorer of choice. It's a bit of an involved process to setup but once you are done, it works great.
+
+##### Note for me and to the people who decided to go down to this path
+
+Follow [this](https://gist.github.com/Gyarbij/4dc1fe668b6e7d804b490bebddd3ac80) guide and [this](https://github.com/tynor88/docker-rclone-mount/issues/2#issuecomment-470129261) comment to set it up properly.
+
+Create different services and cache folders for each cloud storage you want to sync.
 
 ## Desktop Environment, Display Manager and Customization
 
