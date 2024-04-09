@@ -165,6 +165,10 @@ Remove the comments (parts that starts with #) from the sample configuration bec
 
 Create different services and cache folders for each cloud storage you want to sync.
 
+#### Disk Usage Analyzer - Baobab
+
+I've been using WinDirStat on Windows for analyzing disk usage to find out which files and folders were eating up my storage. Baobab does exactly that on Linux and it's a great alternative.
+
 ## Desktop Environment, Display Manager and Customization
 
 The thing about Linux based operating systems is that you can customize them however you want. You didn't like the look of your desktop? Go ahead, customize it. You didn't like how your login screen works? Just change it. You want to delete your boot loader for some reason? Sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled between other popular operating systems.
