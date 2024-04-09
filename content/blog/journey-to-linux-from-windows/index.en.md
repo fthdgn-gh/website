@@ -185,7 +185,7 @@ If you have a license for Windows 11 and want to use the fonts from it, then you
 
 Well, if you don't have Windows 11 but have 10 for example, then you can just use "ttf-ms-win10-auto" instead.
 
-In fact, there are bunch of options to choose from [here](https://wiki.archlinux.org/title/Microsoft_fonts) depending on which version of Windows or Office you have. You can just use that package instead. Beware that you need your installation media ready for those "non auto" packages.
+In fact, there are bunch of options to choose from [here](https://wiki.archlinux.org/title/Microsoft_fonts) depending on which version of Windows and/or Office you have. You can just use that package instead. Beware that you need your installation media ready for those "non auto" packages.
 
 ## Desktop Environment, Display Manager and Customization
 
