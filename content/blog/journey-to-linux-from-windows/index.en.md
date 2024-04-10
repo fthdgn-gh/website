@@ -33,13 +33,17 @@ As I said before, I've tried most them, ranging from Ubuntu to Arch. Ubuntu is a
 
 Let's start with what apps I'm using. I also want to mention as a side note that, you have to enable Flatpak and AUR support within the software center to find and install some of the applications below.
 
-### Browser - Google Chrome and Firefox
+### Browser - Brave, Google Chrome and Firefox
 
-One of the things that I can't change right now is the browser that I use. I'm too bound to Google Chrome and Google in general - which is something that I also don't like, but, hey, I'm also the person who chose to use these "free" services back in the day, so, it is what it is at the moment. I'm trying to use Firefox in the mean time and maybe I'll switch to it in the future.
+One of the things that I was afraid when I made the switch was my browser of choice. I was used to Google Chrome. I'm using maybe all of the functions that it provides; bookmarks, extensions, password manager etc. I've installed it first on my machine to feel familiar but at the same time, I'm also trying to lower my dependence to it and Google itself. 
 
-### Music Player - [Cider](https://cider.sh/) 
+After inspecting Brave a bit, I've made the switch to it. It was near seamless. Brave imported most of the things from Chrome. My bookmarks was there. Because it's also Chromium based, all of my extensions were there too. I just exported my passwords from Chrome and imported them to Brave. I've also enabled "Sync" feature and also switched to Brave on my phones.
 
-Music is an important part of my life. I've switched to Apple Music about a month ago from Spotify because of the music quality difference between them and I enjoy Hi-res Lossless music from my Android phone. Windows has a great app directly from Apple but Linux on the other hand, don't. Cider is a great alternative that has the Linux version. It has two versions, one of them is called "Classic" and it's free. It's not in active development anymore but it does the job. The other one is paid but after using Classic for a while, I decided to buy it and I'm happy with my purchase. 
+I've tried to switch Firefox back in the day and I'm still looking to get in to it but never had the time nor stamina to do it. We'll see what the future holds.
+
+### Music Player - Cider
+
+Music is an important part of my life. I've switched to Apple Music about a month ago from Spotify because of the music quality difference between them and I enjoy Hi-res Lossless music from my Android phone. Windows has a great app directly from Apple but Linux on the other hand, don't. Cider is a great alternative that has a Linux version. It have two versions, one of them is called "Classic" and it's free. It's not in active development anymore but it does the job. The other one is paid but after using Classic for a while, I decided to buy it and I'm happy with my purchase.
 
 Beware that, it doesn't support Lossless options at the moment and may never will, because of Apple and how they designed their API's that these kind of applications can use. To remedy this a bit, Cider has something called "Cider Adrenaline Processor™" that processes the sound that is coming out of your speakers and I think it's pretty solid.
 
