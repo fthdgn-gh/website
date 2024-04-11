@@ -107,6 +107,10 @@ protonup-qt is an application to manage Proton versions. It also have another la
 
 ### Various
 
+#### Windows Applications - Wine
+
+It's a translation layer for Windows applications that makes it possible to run them within Linux. I've already mentioned it on gaming section but it's actually not for gaming. It's pretty capable of running them but it's not a silver bullet. You might have some problems running some demanding or obscure applications.
+
 #### Firewall - ufw and gufw
 
 Manjaro also doesn't include any firewall management software, so it's a must if you want to use your computer safely. ufw is a CLI package and gufw is a GUI interface for that package. gufw is easy to use, just a click of a switch and you are safer.
@@ -124,10 +128,6 @@ It's a package for having the functionality to have a system level DNS. It's esp
 NVIDIA doesn't play nice with Linux and if you have a PC that is NVIDIA Optimus enabled, then you are in more trouble. Manjaro already includes a package called "mhwd" for detecting and installing open source or proprietary drivers for your hardware, including graphics cards but using only that doesn't solve the whole issue. It makes it hell of a lot easier tho.
 
 The other piece of the puzzle is using "optimus-manager" and "optimus-manager-qt" packages. The second one is a GUI application that uses the first package and it makes it easy to switch between integrated and discrete graphics cards. You must use X11 tho. Wayland is not supported at the moment. This application is a must if you have that kind of configuration.
-
-#### Windows Applications - Wine
-
-It's a translation layer for Windows applications that makes it possible to run them within Linux. I've already mentioned it on gaming section but it's actually not for gaming. It's pretty capable of running them but it's not a silver bullet. You might have some problems running some demanding or obscure applications.
 
 #### Media - VLC
 
@@ -191,6 +191,14 @@ Well, if you don't have Windows 11 but have 10 for example, then you can just us
 
 In fact, there are bunch of options to choose from [here](https://wiki.archlinux.org/title/Microsoft_fonts) depending on which version of Windows and/or Office you have. You can just use that package instead. Beware that you need your installation media ready for those "non auto" packages.
 
+#### Virtualization - QEMU and Docker
+
+I've decided to put this into the optional part because not everyone needs to virtualize within their system. Most of the developers are using Docker as their containerization solution but not everybody uses VMs, yet, they are both in the category of virtualization.
+
+Installing docker was really easy, just a quick internet search will do, so I'm not going to get into it that much. It was definitely easier then Windows tho.
+
+Installing QEMU for virtual machine needs was a bit involved but it was also easy. I followed [this video guide](https://www.youtube.com/watch?v=Jn78BDF3P_Q).
+
 ## Desktop Environment, Display Manager and Customization
 
 The thing about Linux based operating systems is that you can customize them however you want. You didn't like the look of your desktop? Go ahead, customize it. You didn't like how your login screen works? Just change it. You want to delete your boot loader for some reason? Sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled between other popular operating systems.
@@ -217,17 +225,9 @@ Please note that, for the login screen (SDDM) theme, you have to find and set it
 
 ### Widgets
 
-#### Weather Report
+#### Chaac Weather
 
-It's a taskbar widget that allows you to see the current weather condition. When you click on it, you can see more information like temperature and brief hourly forecasts.
-
-#### Advanced Radio Player
-
-It's, again, an another taskbar widget that does what it says. It allows you to listen to couple of online radios. I'm not using it frequently but it's there if I need it.
-
-#### Better Inline Clock 
-
-It's a clock widget and personally it's really a better inline clock alternative from what you get by default. I've set it to show the date and time horizontally rather then vertically. It allows me to set my taskbar height to a much more smaller size.
+It's a nice little widget that shows the current weather conditions on your desktop. It doesn't have a lot of options but it does what I it does out of the box without me needing to do anything to it, so it's great.
 
 #### Control Centre
 
