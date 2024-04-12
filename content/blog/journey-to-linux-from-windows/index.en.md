@@ -191,13 +191,15 @@ Well, if you don't have Windows 11 but have 10 for example, then you can just us
 
 In fact, there are bunch of options to choose from [here](https://wiki.archlinux.org/title/Microsoft_fonts) depending on which version of Windows and/or Office you have. You can just use that package instead. Beware that you need your installation media ready for those "non auto" packages.
 
-#### Virtualization - QEMU and Docker
+#### Virtualization - Oracle VM Virtual Box, QEMU and Docker
 
 I've decided to put this into the optional part because not everyone needs to virtualize within their system. Most of the developers are using Docker as their containerization solution but not everybody uses VMs, yet, they are both in the category of virtualization.
 
 Installing docker was really easy, just a quick internet search will do, so I'm not going to get into it that much. It was definitely easier then Windows tho.
 
-Installing QEMU for virtual machine needs was a bit involved but it was also easy. I followed [this video guide](https://www.youtube.com/watch?v=Jn78BDF3P_Q).
+Installing QEMU for virtual machine needs was a bit involved but it was also easy. I followed [this video guide](https://www.youtube.com/watch?v=Jn78BDF3P_Q). But quickly found out that installing Windows on it for example was not smooth.
+
+I installed Oracle VM Virtual Box after that and I'm happy to say that it was really easy and intuitive to setup and run x86_64 systems on it like Windows.
 
 ## Desktop Environment, Display Manager and Customization
 
