@@ -183,6 +183,26 @@ I've been using WinDirStat on Windows for analyzing disk usage to find out which
 
 ### Optional
 
+#### Touchpad Gestures - libinput-gestures, xdotool, gestures
+
+X11 doesn't like gestures that much. It kind of makes sense, because to support it, you would need to have extra stuff that might not be used because you might not be on a laptop. It's also doesn't make sense, because having those included would save my and maybe many other's precious time. They are also not so big packages to include.
+
+libinput-gestures is the main package that does the handling of touchpad gestures and xdotool is a package that can send keystrokes to your machine through a command. I believe you can already see where this is going.
+
+gestures is a little app to edit your gesture defines. So you can easily add definitions like; when I do 3 swipe gesture to the left, press the Ctrl + W combination.
+
+Below are my definitions. You can use them directly or as a base if you want. I also had to go to the KWin shortcuts and set the "Switch to Next Desktop" and "Switch to Previous Desktop" shortcuts to "Meta+Ctrl+Right" and "Meta+Ctrl+Left" respectively to get it working.
+
+```
+gesture swipe down 3 xdotool key super+enter
+gesture swipe up 3 xdotool key super+space
+gesture swipe up 4 xdotool key super+w
+gesture swipe left 4 xdotool key super+Ctrl+Right
+gesture swipe right 4 xdotool key super+Ctrl+Left
+```
+
+PS: "Meta" and "super" refers to the "Windows" key on your keyboard.
+
 #### Microsoft Fonts - ttf-ms-win11-auto
 
 If you have a license for Windows 11 and want to use the fonts from it, then you can just grab this package and install all of the fonts. Including Comic Sans. It just makes some sites to look how you used to and viewing and editing Office files easier and much more compatible.
