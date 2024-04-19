@@ -99,6 +99,10 @@ On the other hand, Telegram and Discord have native versions of their respective
 
 I have two mail accounts at the moment, namely Outlook and Gmail. I've been using the new Outlook on Windows, it's alright, but on Linux, I don't have that option. I wanted to try Thunderbird from Mozilla using this experiment as an excuse and it's been great. It met my needs, because I'm not a heavy mail user, but your milage may vary.
 
+##### Note for me and to the people who decided to go down to this path7
+
+I've also installed [SysTray-X](https://github.com/Ximi1970/systray-x) to minimize it to tray.
+
 ### Office Suite - Libre Office
 
 My choice of office application is Libre Office. Linux have couple of other options, so you can choose from any of them to your liking, they are generally available.
