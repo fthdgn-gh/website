@@ -165,6 +165,10 @@ NVIDIA doesn't play nice with Linux. If you have a PC that is NVIDIA Optimus ena
 
 The other piece of the puzzle is using "optimus-manager" and "optimus-manager-qt" packages. The second one is a GUI application that uses the first package and it makes it easy to switch between integrated and discrete graphics cards. You must use X11 tho. Wayland is not supported at the moment. This application is a must if you have that kind of configuration.
 
+##### Note for me and to the people who decided to go down to this path
+
+For Manjaro Plasma, make sure that you follow [this guide](https://www.youtube.com/watch?v=RZdWVntmvI8)
+
 #### Media - VLC
 
 VLC is a great piece of software for your media needs. I was using it on Windows already. Having it here also is really great.
@@ -227,6 +231,11 @@ libinput-gestures is the main package that does the handling of touchpad gesture
 gestures is a little app to edit your gesture defines. So you can easily add definitions like; when I do 3 finger swipe gesture to the left, press the Ctrl + W combination.
 
 ##### Note for me and to the people who decided to go down to this path
+
+Make sure that your user is in the input group.
+```
+sudo usermod -a -G input [user]
+```
 
 Below are my definitions. You can use them directly or as a base if you want. I also had to go to the KWin shortcuts and set the "Switch to Next Desktop" and "Switch to Previous Desktop" shortcuts to "Meta+Ctrl+Right" and "Meta+Ctrl+Left" respectively to get it working.
 
