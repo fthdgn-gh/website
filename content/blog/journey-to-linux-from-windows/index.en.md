@@ -201,6 +201,8 @@ Add the Howdy lines below to the "sudo", "kde" and "polkit-1" pam files and righ
 
 "polkit-1" file might not be there, just copy "sudo" file after modifying it and it works.
 
+For Manjaro Plasma, follow [this guide](https://gist.github.com/pastleo/76597c6ae8f95bb02982fea6df3a3ade) if you got stuck.
+
 ###### Howdy lines
 
 ```sh
