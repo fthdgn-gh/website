@@ -99,7 +99,7 @@ On the other hand, Telegram and Discord have native versions of their respective
 
 I have two mail accounts at the moment, namely Outlook and Gmail. I've been using the new Outlook on Windows, it's alright, but on Linux, I don't have that option. I wanted to try Thunderbird from Mozilla using this experiment as an excuse and it's been great. It met my needs, because I'm not a heavy mail user, but your milage may vary.
 
-##### Note for me and to the people who decided to go down to this path7
+##### Note for me and to the people who decided to go down to this path
 
 I've also installed [SysTray-X](https://github.com/Ximi1970/systray-x) to minimize it to tray.
 
@@ -123,7 +123,7 @@ I'm still trying to figure out how I'm going to reach to my notes through my pho
 
 Visual Studio Code is my editor of choice for a lot of my editing needs. I've been using it on Windows a lot and the same app is also available for Linux.
 
-I want to also mention in this section that, how Microsoft turned out to be after Satya Nadella started to run the company. It's more open now, thanks to him and VS Code is one of the things that was possible thanks to him.
+I want to also mention in this section that, how Microsoft turned out to be after Satya Nadella started to run the company. It's more open now and VS Code is one of the things that was possible thanks to him.
 
 I was also using Notepad++ on Windows and Notepadqq is a great alternative for it. I've been using it with no issues.
 
