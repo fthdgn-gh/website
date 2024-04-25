@@ -271,6 +271,14 @@ Installing QEMU for virtual machine needs was bit of an involved process but it 
 
 I installed Oracle VM Virtual Box after that and I'm happy to say that it was really easy and intuitive to setup and run x86_64 systems on it like Windows.
 
+#### Theming - Kvantum
+
+This program allows you to change the style of your applications and allows for more theming options for you to choose from. I definitely suggest you to install it.
+
+##### Note for me and to the people who decided to go down to this path
+
+Non-integer scaling actually effects how the theme looks. My screen scaling is on %125. Translucency is disabled by default for this kind of situation. You can "disable" the "Disable translucency with non-integer scaling" through Kvantum Manager's "Hacks" section.
+
 ## Desktop Environment, Display Manager and Customization
 
 The thing about Linux based operating systems is that you can just customize them however you want. You didn't like the look of your desktop? Go ahead, change it. You didn't like how your login screen works? Here, select anything you like from this huge list. You want to delete your boot loader for some reason? Weird, but, sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled from other popular operating systems.
@@ -287,13 +295,19 @@ Yes, I like having different wallpapers everyday. I was already using Bing daily
 
 This theme is a glossy dark theme and I really liked it when I saw it. It integrates really nicely and haven't given me any problems whatsoever. Here are some other customizations that I did to sub options.
 
-- Plasma Style - Utterly-Round
-- Window Decorations - Utterly-Round-Dark
-- Icons - candy-icons
-- Cursors - Sweet-cursors
-- Splash Screen - Utterly Sweet
+- Kvantum Theme -> Utterly-Sweet
+- Application Style -> kvantum-dark 
+- Application Style - Gnome/GTK Application Style -> Sweet-Dark
+- Plasma Style -> Utterly-Round
+- Colors -> UtterlySweet
+- Window Decorations -> Utterly-Round-Dark
+- Icons -> candy-icons
+- Cursors -> Sweet-cursors
+- Splash Screen -> Kuro
+- Boot Splash Screen -> Linux Distro Logos Colored
+- SDDM Theme -> Utterly-Sweet
 
-Please note that, for the login screen (SDDM) theme, you have to find and set it separately. I'm also using Utterly-Sweet theme here. Remember to "Apply Plasma Settings" after you set this theme to see all the effects and changes you've made so far is reflected to the login screen too.
+Please note that, for the login screen (SDDM) theme, you have to find and set it separately. Remember to "Apply Plasma Settings" after you set this theme to see all the effects and changes you've made so far is reflected to the login screen too.
 
 ### Widgets
 
