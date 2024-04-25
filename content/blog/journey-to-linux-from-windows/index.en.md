@@ -181,9 +181,9 @@ VLC is a great piece of software for your media needs. I was using it on Windows
 
 Manjaro doesn't include any software for camera. I don't know why but you can install an app called "Camera (snapshot)". It does the job.
 
-#### Torrent Client - Fragments
+#### Torrent Client - qBittorent
 
-I found that "Fragments" is an easy to use application for torrent needs and I didn't have any problems using it.
+I was using "Fragments" but after some time, I needed more control and information from my torrent client. I did use qBittorent on Windows before and it's the same experience here. I can recommend.
 
 #### "Windows Hello™" - Howdy
 
