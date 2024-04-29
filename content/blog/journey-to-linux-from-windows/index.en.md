@@ -173,9 +173,11 @@ The other piece of the puzzle is using "optimus-manager" and "optimus-manager-qt
 
 For Manjaro Plasma, make sure that you follow [this guide](https://www.youtube.com/watch?v=RZdWVntmvI8)
 
-#### Media - VLC
+#### Media - VLC (Flatpak)
 
-VLC is a great piece of software for your media needs. I was using it on Windows already. Having it here also is really great.
+VLC is a great piece of software for your media needs. I was using it on Windows already. Having it here also is really great. 
+
+Pre-installed VLC package caused some issues for me, so, I uninstalled Elisa, which depends on VLC and the VLC itself and installed flatpak version of VLC.
 
 #### Camera - Camera (snapshot)
 
