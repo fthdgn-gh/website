@@ -281,6 +281,16 @@ This program allows you to change the style of your applications and allows for 
 
 Non-integer scaling actually effects how the theme looks. My screen scaling is on %125. Translucency is disabled by default for this kind of situation. You can "disable" the "Disable translucency with non-integer scaling" through Kvantum Manager's "Hacks" section.
 
+#### Other utilities that I found useful
+
+##### detox
+
+It's a file rename tool to clear your file names from special characters.
+
+##### ddclient
+
+It's a dynamic DNS helper tool.
+
 ## Desktop Environment, Display Manager and Customization
 
 The thing about Linux based operating systems is that you can just customize them however you want. You didn't like the look of your desktop? Go ahead, change it. You didn't like how your login screen works? Here, select anything you like from this huge list. You want to delete your boot loader for some reason? Weird, but, sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled from other popular operating systems.
@@ -320,6 +330,8 @@ It's a nice little widget that shows the current weather conditions on your desk
 #### Control Centre
 
 It's a nice, macOS and Windows inspired control center widget. It's pretty handy to have volume, brightness, media, bluetooth and much more options in the same window.
+
+
 
 ## End Result and Last words
 
