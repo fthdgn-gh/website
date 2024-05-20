@@ -338,7 +338,7 @@ It's a nice, macOS and Windows inspired control center widget. It's pretty handy
 
 Linux shell's glory is restricted by it's "the only way to do things in Linux" assumption and in some cases reputation but - this might come of as a clique, it gets better the more you get used to it, trust me on that.
 
-Even if you are not a developer, using the terminal opens up limitless possibilities to automate things for your workflow or your personal use cases, thanks to how the system is architected and because it is still the preferred way of doing things in Linux for most of it's users.
+Even if you are not a developer, using the terminal opens up limitless possibilities to automate things for your workflow and/or your personal use cases, thanks to how the system is architected and because it is still the preferred way of doing things in Linux for most of it's users.
 
 ### A little more reading material about Terminal, mostly revolving around Microsoft, Windows, text, AI and communication
 
