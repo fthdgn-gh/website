@@ -45,7 +45,10 @@ tags = [
 ]
 +++
 
-![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)
+## Changelog
+\[2024-05-14\] I've added a new section called "Terminal".
+
+![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)   
 
 So, hello again? It's been a while.
 
@@ -331,7 +334,27 @@ It's a nice little widget that shows the current weather conditions on your desk
 
 It's a nice, macOS and Windows inspired control center widget. It's pretty handy to have volume, brightness, media, bluetooth and much more options in the same window.
 
+## Terminal (Shell)
 
+Linux shell's glory is restricted by it's "the only way to do things in Linux" assumption and in some cases reputation but - this might come of as a clique, it gets better the more you get used to it, trust me on that.
+
+Even if you are not a developer, using the terminal opens up limitless possibilities to automate things for your workflow or your personal use cases, thanks to how the system is architected and because it is still the preferred way of doing things in Linux for most of it's users.
+
+### A little more reading material about Terminal, mostly revolving around Microsoft, Windows, text, AI and communication
+
+You can still use the terminal in macOS but it's a second option, and for a good reason.
+
+Microsoft's side however, the default command line experience - in my opinion, wasn't even a viable option back then, even though Windows started as a shell only solution namely MS-DOS, shell was almost neglected because of the focus geared towards to GUI applications. Currently, after all those years, Microsoft actually created a new terminal application called... well... Terminal. Also, Powershell is a great scripting language you can easily pick up and it's actually capable of doing system level configurations for most of the things, and on top of that, having full access to .NET means you have the option and extensibility to turn your scripts into a fully fledged software, leveraging the things meant for .NET, albeit doing so is somewhat cumbersome.
+
+Microsoft themselves also understood some crucial things along the way and developed their own kernel for Linux and created something called Windows Subsystem for Linux (WSL), which you can actually use a Linux system within Windows through a really trimmed down VM solution. So you can actually use the Linux shell and even native GUI applications right from your Windows installation. 
+
+[Satya Nadella says "Microsoft Loves Linux"](https://www.microsoft.com/en-us/windows-server/blog/2015/05/06/microsoft-loves-linux/) not to embrace it wholeheartedly; They needed to embrace it because it's open-source, flexible, customizable and more efficient to run by nature, hence, fighting with it was futile. Not just these reasons but a lot more of them that I can't count contributed to the fact that Linux is being used in hundreds of data centers and by nearly all of the Cloud providers, including Azure.
+
+I got off-track a bit, but I also believe that these are important information to emphasize my point; Text is more expressive and direct than an image for describing intent, for a computer, at least for now. This statement started to change with the latest AI improvements, but we are still a bit far away from fully autonomous assistants. Even after that, we'll still need to "inform" them, probably by "talking" to them using "words" until the near future, and currently by generally "typing" it, which is still the basic building block of our communication as an human being. If we can't find a better way to communicate the information back from them, they will still "speak" or "write" back to us.
+
+TLDR; Words are cool.
+
+// TODO: Complete this segment.
 
 ## End Result and Last words
 
