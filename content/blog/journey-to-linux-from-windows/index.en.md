@@ -46,7 +46,7 @@ tags = [
 +++
 
 ## Changelog
-\[2024-05-14\] I've added a new section called "Terminal".
+\[2024-05-23\] I've added a new section called "Terminal".
 
 ![Tux holding Windows logo](/images/journey-to-linux-from-windows/index.webp)   
 
@@ -294,6 +294,10 @@ It's a file rename tool to clear your file names from special characters.
 
 It's a dynamic DNS helper tool.
 
+##### To Do application - Kuro
+
+Kuro is a Microsoft To Do wrapper. I'm still using Microsoft To Do for my to do lists. It currently sufficient for my needs.
+
 ## Desktop Environment, Display Manager and Customization
 
 The thing about Linux based operating systems is that you can just customize them however you want. You didn't like the look of your desktop? Go ahead, change it. You didn't like how your login screen works? Here, select anything you like from this huge list. You want to delete your boot loader for some reason? Weird, but, sure, go ahead! It's unrestricted control over every aspect of the system is unparalleled from other popular operating systems.
@@ -340,7 +344,20 @@ Linux shell's glory is restricted by it's "the only way to do things in Linux" a
 
 Even if you are not a developer, using the terminal opens up limitless possibilities to automate things for your workflow and/or your personal use cases, thanks to how the system is architected and because it is still the preferred way of doing things in Linux for most of it's users.
 
-### A little more reading material about Terminal, mostly revolving around Microsoft, Windows, text, AI and communication
+Currently, ```zsh``` is my shell of choice. I've followed through [this video](https://www.youtube.com/watch?v=ud7YxC33Z3w) to set my environment up and it's been great so far.
+
+[The video](https://www.youtube.com/watch?v=ud7YxC33Z3w) is actually well thought out, contains a lot of information, shows how to set specific tools up and integrate them, like; [zinit](https://github.com/zdharma-continuum/zinit), [powerlevel10k](https://github.com/romkatv/powerlevel10k), [fzf](https://github.com/junegunn/fzf), [zoxide](https://github.com/ajeetdsouza/zoxide) etc.
+
+## End Result
+
+![This is how my desktop looks like at the end](/images/journey-to-linux-from-windows/endresult.png)
+
+\[2024-05-23\] 
+![This is how my desktop looks like at the end](/images/journey-to-linux-from-windows/endresult-2.png)
+
+I'm pretty happy with my experience and setup at the moment. I don't plan to go back to Windows ever again on my personal computer and I'm hoping that I'll not feel the need to. I hope this was a good read and helpful a bit.
+
+### Homestretch: A little bit more reading material about Terminal, mostly revolving around Microsoft, Windows, text, AI and communication
 
 You can still use the terminal in macOS but it's a second option, and for a good reason.
 
@@ -350,14 +367,6 @@ Microsoft themselves also understood some crucial things along the way and devel
 
 [Satya Nadella says "Microsoft Loves Linux"](https://www.microsoft.com/en-us/windows-server/blog/2015/05/06/microsoft-loves-linux/) not to embrace it wholeheartedly; They needed to embrace it because it's open-source, flexible, customizable and more efficient to run by nature, hence, fighting with it was futile. Not just these reasons but a lot more of them that I can't count contributed to the fact that Linux is being used in hundreds of data centers and by nearly all of the Cloud providers, including Azure.
 
-I got off-track a bit, but I also believe that these are important information to emphasize my point; Text is more expressive and direct than an image for describing intent, for a computer, at least for now. This statement started to change with the latest AI improvements, but we are still a bit far away from fully autonomous assistants. Even after that, we'll still need to "inform" them, probably by "talking" to them using "words" until the near future, and currently by generally "typing" it, which is still the basic building block of our communication as an human being. If we can't find a better way to communicate the information back from them, they will still "speak" or "write" back to us.
+I got off-track a bit, but I also believe that these are important information to emphasize my point; Text is more expressive and direct than an image for describing intent, for a computer, at least for now. This statement started to change with the latest AI improvements, but we are still a bit far away from fully autonomous assistants. Even after that, we'll still need to "inform" them, probably by "talking" to them using "words" until the near future, and currently by generally "typing" it, which is still the basic building block of our communication as human beings. If we can't find a better way to communicate the information back from them, they will still "speak" or "write" back to us.
 
 TLDR; Words are cool.
-
-// TODO: Complete this segment.
-
-## End Result and Last words
-
-![This is how my desktop looks at the end](/images/journey-to-linux-from-windows/endresult.png)
-
-I'm pretty happy with my experience and setup at the moment. I don't plan to go back to Windows ever again on my personal computer and I'm hoping that I'll not feel the need to. I hope this was a good read and helpful a bit.
