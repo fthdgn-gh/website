@@ -3,7 +3,7 @@ title = "Projects"
 permalink = "en/projects"
 +++
 
-Throughout my life, I have developed and been involved in numerous projects of various sizes. Below is a reverse chronological list of some of them that come to mind. This list is, of course, currently incomplete. I will add future projects here as time allows.
+Throughout my life, I have developed and been involved in numerous projects in various sizes. Below is a reverse chronological list of some of them that comes to mind. This list is, of course, currently incomplete. I will add future projects here.
 
 ---
 ### [VavaCars](https://vava.cars/)
