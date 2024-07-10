@@ -63,11 +63,11 @@ params:
     - name: "Twitter"
       url: https://x.com/fthdgn_x
     - name: "YouTube"
-      url: https://www.youtube.com/channel/UCL_3Q1jbOhNuhcThWpeRLSA
+      url: https://www.youtube.com/@fthdgn_yt
     - name: "LinkedIn"
-      url: https://www.linkedin.com/in/fatihdgn
+      url: https://www.linkedin.com/in/fthdgn-li/
     - name: "Github"
-      url: https://github.com/fatihdgn
+      url: https://github.com/fthdgn-gh
     - name: "Mail"
       url: mailto:fth.dgn@outlook.com
   cover:
