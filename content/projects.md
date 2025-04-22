@@ -6,6 +6,16 @@ permalink = "projects"
 Hayatım boyunca bir çok irili ufaklı proje geliştirdim ve içinde bulundum. Bunlardan aklıma gelenleri ise ters kronolojik sıralı bir şekilde aşağıda. Bu liste tabii şu anda eksik. Gelecekte oluşabilecek projeleri zaman buldukça buraya yazacağım.
 
 ---
+### LetsBet CALP
+
+Müşteri hizmetlerinin kullandığı sistemin geliştirilmesi ve iyileştirmesinde yer alıyorum.
+
+---
+### [LetsBet](https://letsbet.de)
+
+Bahis sürecindeki bazı entegrasyonların geliştirmesinde bulundum. 
+
+---
 ### [VavaCars](https://vava.cars/)
 
 İkinci el araç alım satım platformu. Sipariş sürecinden, araç detayına ve yasal belgelerin ilgili alanlarda gösterilmesine kadar değişen bazı özellik ve değişikliklere katkıda bulundum.

@@ -1,7 +1,7 @@
 ---
 title: Draft
 slug: draft
-date: yyyy-mm-dd
+date: 2025-04-22
 description: Draft description
 images:
   - index.jpg

@@ -6,6 +6,16 @@ permalink = "en/projects"
 Throughout my life, I have developed and been involved in numerous projects in various sizes. Below is a reverse chronological list of some of them that comes to mind. This list is, of course, currently incomplete. I will add future projects here.
 
 ---
+### LetsBet CALP
+
+I am involved in the development and improvement of the system used by customer service.
+
+---
+### [LetsBet](https://letsbet.de)
+
+I was involved in the development of some integrations in the betting process.
+
+---
 ### [VavaCars](https://vava.cars/)
 
 A platform for buying and selling used cars. I contributed to various features and changes ranging from the ordering process to displaying vehicle details and relevant legal documents.
