@@ -3,7 +3,6 @@ theme: PaperMod
 title: Fatih Doğan
 author: Fatih Doğan
 languageCode: tr-TR
-copyright: Copyright © 2020, Fatih Doğan.
 enableRobotsTXT: true
 disqusShortname: fatihdgn
 disableKinds:
