@@ -13,7 +13,7 @@ Again, it's been a long time since I've scribbled down something here, but I don
 
 There are a lot of maybes riddled through this... mess. Maybe this, maybe that, but I want to change it. I want some answers!
 
-What is missing and why it isn't there anymore? Is it good that it's gone, or it's a warning of some sorts?
+What is missing and why it isn't there anymore? Is it good that it's gone, or is it a warning of some sorts?
 
 I think it comes down to two things. First, I don't care about most of the stuff going around me like I used to, meaning, I'm bored. Second, because of this, my interest to some of the things I did back then is not there anymore.
 
@@ -28,4 +28,4 @@ I can try...
 
 But here is the kicker; I don't want to. The other thing that is lost is my will it seems.
 
-Will I get it back? Time will tell. Until then, I'll try to do some of the things I listed above, even if I don't want to. Maybe my will will come back after doing so.
+Will I get it back? Time will tell. Until then, I'll try to do some of the things I've listed above, even if I don't want to. Maybe my will will come back after doing so.
